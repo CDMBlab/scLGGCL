@@ -87,3 +87,8 @@ other arguments:
     "--save_embedding": default: True. Description: To choose whether saves the cell embeddings to the directory "./embedding".
 
     "--max_num_cell": default: 4000. Description: Conduct random sampling training on large datasets. 4,000 is the maximum cells that a GPU (8GB RAM) can handle. In the experiment, scLGGCL still performs well when 1/10 cells is sampled for model training.
+
+
+Dataset Download
+The dataset is available for download via the following Google Drive link:https://drive.google.com/file/d/1oUT2a5rcVa3uVYazpf7WVqcekwqALRos/view?usp=drive_link
+
